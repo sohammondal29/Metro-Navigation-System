@@ -1,7 +1,5 @@
 import './style.css'
 
-const API_URL = 'http://localhost:5000/api';
-
 // ─── State ────────────────────────────────────────────────────────────────────
 let stations = [];
 let connections = [];
